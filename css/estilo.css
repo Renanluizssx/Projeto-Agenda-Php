@@ -1,0 +1,41 @@
+h1{
+    color: #4F6B42;
+    text-align: center;
+}
+ul{
+    background: #4F6B42;
+    padding: 20px 0;
+    
+}
+ul li{
+    display: inline ;
+    padding: 0 20px;
+}
+ul li a{
+    
+    padding: 20px;
+    color:#FFF;
+    text-decoration: none;
+}
+ul li a:hover{
+    background: #CCC;
+    color: #4F6B42;
+}
+
+table{
+    border:1px solid #4F6B42; 
+    border-collapse: collapse;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+table td{
+    padding: 10px;
+    margin: 10px;
+
+}
+.titulo{
+    background: #4F6B42;
+    color:#FFF;
+    
+}
